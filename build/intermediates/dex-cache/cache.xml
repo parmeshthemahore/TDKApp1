@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3372d5ad25a0c297c320856a5c0b60c87eef8446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f756b47f3be66bd4f13fbffe0e4277e7e07cd939">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3926ce91fd845efa9fd66d132f0c6dfff5ee473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bdfc744599005aeaf71525dcc9685bc8a7e4fac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e7f5f0bc524e825619a955b33c31e520df672c44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_b4688a4874174678fe2498a6f5707b77ed717c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e32d0224a836b03b68c6eaf852a7e411acdccbca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_3c20a0704b257a347ee37d6f9d4837833c77758e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cc76f7ddaf8a192616194ad5b47069ca2aeb399">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9c9fab0a378256cf405ee22f24d8453aea6766a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2403c81848ded431619ddafa5a54c9be49d56ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_599e5fac9e65ec0032a02c73121e7d72ac49490d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_9f7e8e33c45d0de386c851738854de7bee6c5833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_c5ab30d2266322c2e0b7aa9c9f0b07f81f96713b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_197be562a26cb45839a768fc6a4d72bf02ee874d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_9bfe14216bdebe99c6b014ea1d9f96e134caab23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b419855bec81db753fdbd1ee15721e83752cfb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ParmeshMahore/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Volumes/Untitled/TDKApp/TDK/ThekaDesiKhaana/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_5b837a23f5701ebe4134ab81bdc19d677ed3cc39/classes.dex" />
+    </item>
+
+</items>
